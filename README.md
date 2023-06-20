@@ -1,6 +1,6 @@
 # week-1-code-challenge1
 TITLE: CHALLENGE1
-    Description
+## Description
 This is a JavaScript program that takes a student's marks as input and determines their corresponding grade based on the marks. Here is a summary of the code:
 
 The code defines a grading system where different ranges of marks correspond to different grades. It prompts the user to enter the student's marks using the prompt function and stores the input in the studentmark variable. It defines a function called studentGrader that takes the studentmark as a parameter.
@@ -12,10 +12,10 @@ A switch statement is used to compare the studentmark against different cases re
 Project Setup
 Prerequisites: Web browser such as Chrome or Firefox Mozilla Run Instructions: The program can be run on any browser by accesisng the browser's developer tools. Within the console tab, copy the code and click enter. This will run the program, initiating some prompts for the user to provide the required information.
 
-Author & License
+## Author & License
 This program was written by and licensed to [[Gilbert2003-beep] ]
 
-TITLE: CHALLENGE 2 ~ SPEED CALCULATOR
+## TITLE: CHALLENGE 2 ~ SPEED CALCULATOR
 Description
 Is a JavaScript program that determines the number of demerit points a driver should receive based on their speed. A brief breakdown of the code:
 
@@ -28,10 +28,10 @@ In case the speed is above the speed limit, the program calculates the number of
 ## Project Setup
 Prerequisites: Web browser such as Chrome or Firefox Mozilla Run Instructions: The program can be run on any browser by accesisng the browser's developer tools. Within the console tab, copy the code and click enter. This will run the program, initiating some prompts for the user to provide the required information.
 
-Author & License
+## Author & License
 This program was written by and licensed to [Gilbert2003-beep] 
 
-TITLE: CHALLENGE 3 ~ NET SALARY CALCULATOR
+## TITLE: CHALLENGE 3 ~ NET SALARY CALCULATOR
 Description
 Is a Javascript program that calculates net salary. It takes a gross salary as input and calculates the net salary. Here is a brief description of such a program:
 
@@ -43,8 +43,8 @@ It also takes personal relief into consideration, once the taxes are calculated,
 
 Once the calculations are complete, the program displays the all the relevant information.
 
-Project Setup
+## Project Setup
 Prerequisites: Web browser such as Chrome or Firefox Mozilla Run Instructions: The program can be run on any browser by accesisng the browser's developer tools. Within the console tab, copy the code and click enter. This will run the program, initiating some prompts for the user to provide the required information.
 
-Author & License
+## Author & License
 This program was written by and licensed to [[Gilbert2003-beep] 
