@@ -25,7 +25,7 @@ The speedDetector function, checks if the speed is less than, equal to, or over 
 
 In case the speed is above the speed limit, the program calculates the number of demerit points to assign. In the scenario that the demeritPoints are greater than 12, the driver's license is suspended.
 
-Project Setup
+##Project Setup
 Prerequisites: Web browser such as Chrome or Firefox Mozilla Run Instructions: The program can be run on any browser by accesisng the browser's developer tools. Within the console tab, copy the code and click enter. This will run the program, initiating some prompts for the user to provide the required information.
 
 Author & License
